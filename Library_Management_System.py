@@ -2,8 +2,8 @@
 Pair-2
 Sümeyye KORKMAZ
 Fatma Büşra TİLKİ
-Ayşenur GÖZE
-Aslı ÇOŞKUN
+Ayşenur GÖKÇE
+Aslı YILMAZ
 
 '''
 
