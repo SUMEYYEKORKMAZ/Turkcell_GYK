@@ -1,9 +1,9 @@
 '''
 Pair-2
-Sümeyye Korkmaz
-Fatma Büşra Tilki
-Ayşenur Göze
-Aslı Çoşkun
+Sümeyye KORKMAZ
+Fatma Büşra TİLKİ
+Ayşenur GÖZE
+Aslı YILMAZ
 
 '''
 
